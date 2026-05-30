@@ -39,7 +39,3 @@ This project strengthened my understanding of:
 - Data organization and reporting
 - Application development
 
-## Author
-
-Ritika Patel
-M.Sc. Statistics, MIT World Peace University
